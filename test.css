@@ -17,6 +17,8 @@ body{
     box-sizing: border-box;
     box-shadow: none !important;
     color: #000000;
+    background: #e8e8e8;
+    border: #cccccc 1px solid;
     font: 21px/25px Arial,"Helvetica CY","Nimbus Sans L",sans-serif;
     height: 40px;
     width: 100%;
