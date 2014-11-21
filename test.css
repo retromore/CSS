@@ -15,7 +15,7 @@ body{
 .search-params .inputformv1 {
     border: medium none;
     box-sizing: border-box;
-    box-shadow: none;
+    box-shadow: none !important;
     color: #000000;
     font: 21px/25px Arial,"Helvetica CY","Nimbus Sans L",sans-serif;
     height: 40px;
@@ -28,17 +28,9 @@ body{
 .inputformv1 {
     background-color: #fff;
     border-radius: 0;
-    box-shadow: 0;
+    box-shadow: 0 !important;
     outline: medium none;
     padding: 6px 10px;
-}
-.inputformv1::-moz-placeholder {
-    color: #bababa;
-}
-*::-moz-selection {
-    background: none repeat scroll 0 0 #3399ff;
-    color: #ffffff;
-    text-shadow: none;
 }
 
 
