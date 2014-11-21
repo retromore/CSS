@@ -17,8 +17,6 @@ body{
     box-sizing: border-box;
     box-shadow: none !important;
     color: #000000;
-    background: #e8e8e8;
-    border: #cccccc 1px solid;
     font: 21px/25px Arial,"Helvetica CY","Nimbus Sans L",sans-serif;
     height: 40px;
     width: 100%;
@@ -28,7 +26,8 @@ body{
     z-index: 3;
 }
 .inputformv1 {
-    background-color: #fff;
+    background: #e8e8e8;
+    border: #cccccc 1px solid;
     border-radius: 0;
     box-shadow: 0 !important;
     outline: medium none;
