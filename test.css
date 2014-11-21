@@ -1,12 +1,30 @@
 
 .payment-methods, .payment-info {
-  display: none;
+    display: none;
 }
 
 body{
-  background: #535353;
+    background: #535353;
 }
 
 .search-params__notic-block:after, .search-params__notic-block:before {
-  background: none;
+    background: none;
+}
+
+.inputformv1 { 
+    background: #e8e8e8;
+    border: 1px #cccccc solid;
+}
+
+
+.inputformv1 {
+    background-color: #fff;
+    border: medium none;
+    border-radius: 0;
+    box-shadow: none;
+    color: #444;
+    font: 17px/20px Arial,"Helvetica CY","Nimbus Sans L",sans-serif;
+    height: 20px;
+    outline: medium none;
+    padding: 6px 10px;
 }
