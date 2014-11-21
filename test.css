@@ -4,7 +4,7 @@
 }
 
 body{
-    background: red;
+    background: gray;
 }
 
 .search-params__notic-block:after, .search-params__notic-block:before {
