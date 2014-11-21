@@ -15,6 +15,7 @@ body{
 .search-params .inputformv1 {
     border: medium none;
     box-sizing: border-box;
+    box-shadow: 0;
     color: #000000;
     font: 21px/25px Arial,"Helvetica CY","Nimbus Sans L",sans-serif;
     height: 40px;
@@ -29,6 +30,7 @@ body{
     border-radius: 0;
     outline: medium none;
     padding: 6px 10px;
+    box-shadow: 0;
 }
 .inputformv1::-moz-placeholder {
     color: #bababa;
