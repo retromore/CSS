@@ -28,9 +28,9 @@ body{
 .inputformv1 {
     background-color: #fff;
     border-radius: 0;
+    box-shadow: 0;
     outline: medium none;
     padding: 6px 10px;
-    box-shadow: 0;
 }
 .inputformv1::-moz-placeholder {
     color: #bababa;
