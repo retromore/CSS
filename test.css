@@ -1,8 +1,12 @@
 
 .payment-methods, .payment-info {
-display: none;
+  display: none;
 }
 
 body{
-background: #535353;
+  background: #535353;
+}
+
+.search-params__notic-block:after, .search-params__notic-block:before {
+  background: none;
 }
