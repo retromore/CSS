@@ -43,3 +43,7 @@ body{
     background-color: #f9f9f9;
     border-radius: 0;
 }
+
+.search-params__time, .search-params__date {
+    display: none;
+}
