@@ -32,10 +32,10 @@ body{
 .inputformv1 {
     background: #e8e8e8;
     border: 1px solid #cccccc !important;
-    border-radius: 0;
     box-shadow: 0 !important;
     outline: medium none;
     padding: 6px 10px;
+    height: 32px;
 }
 
 
