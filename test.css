@@ -86,7 +86,11 @@ body{
     background: url("https://cloud.githubusercontent.com/assets/9862634/5192870/a2c3735e-7503-11e4-938d-9115eb209b82.png") repeat scroll 0 0 rgba(0, 0, 0, 0);
     height: 32px;
     left: 100%;
-    margin: 0 6px 0 3px;
+    margin: 0 6px 0 11px;
     top: 27px;
     width: 32px;
+}
+
+.search-params__col {
+    width: 47%;
 }
