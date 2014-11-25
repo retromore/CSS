@@ -68,4 +68,6 @@ body{
 .search-params__hint {
     color: #FFFFFF;
     font-family: 'PT Sans', sans-serif;
+    font-style: normal;
+    font-size: 13px;
 }
