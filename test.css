@@ -18,10 +18,11 @@ body{
     border: medium none;
     box-sizing: border-box;
     box-shadow: none !important;
-    color: #000000;
+    color: #395967;
     font-family: 'PT Sans', sans-serif;
     height: 32px;
     width: 100%;
+    font-size: 17px;
 }
 
 .inputformv1_has_autocomplete {
