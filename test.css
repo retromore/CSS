@@ -1,7 +1,7 @@
 
 
 .payment-methods, .payment-info {
-    
+    display:none;
 }
 
 body{
@@ -50,7 +50,7 @@ body{
 }
 
 .search-params__time, .search-params__date {
-    display: none;
+    
 }
 
 .search-params__tickets {
