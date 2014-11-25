@@ -5,7 +5,7 @@
 
 body{
     background: gray;
-    font-family: 'PT Sans', sans-serif;
+    font-family: 'PT Sans', sans-serif !important;
 }
 
 .search-params__notic-block:after, .search-params__notic-block:before {
@@ -22,10 +22,12 @@ body{
     height: 40px;
     width: 100%;
 }
+
 .inputformv1_has_autocomplete {
     position: relative;
     z-index: 3;
 }
+
 .inputformv1 {
     background: #e8e8e8;
     border: 1px solid #cccccc !important;
