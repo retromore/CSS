@@ -5,6 +5,7 @@
 
 body{
     background: gray;
+    font-family: 'PT Sans', sans-serif;
 }
 
 .search-params__notic-block:after, .search-params__notic-block:before {
