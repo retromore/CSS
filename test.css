@@ -75,9 +75,10 @@ body{
 }
 
 .search-params__label {
-    font: 24px 'PT Sans', sans-serif;
+    font: 15px 'PT Sans', sans-serif;
     margin: 0 0 6px;
     text-shadow: none;
+    color: #666666;
 }
 
 .search-params__arrow {
