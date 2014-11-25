@@ -79,6 +79,7 @@ body{
     margin: 0 0 6px;
     text-shadow: none;
     color: #666666;
+    font-weight: 700;
 }
 
 .search-params__arrow {
