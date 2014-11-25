@@ -19,8 +19,8 @@ body{
     box-sizing: border-box;
     box-shadow: none !important;
     color: #000000;
-    font: 21px/25px Arial,"Helvetica CY","Nimbus Sans L",sans-serif;
-    height: 40px;
+    font-family: 'PT Sans', sans-serif;
+    height: 32px;
     width: 100%;
 }
 
