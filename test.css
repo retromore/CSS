@@ -45,6 +45,7 @@ body{
     background-color: #f9f9f9;
     border-radius: 5px 5px 0 0;
     box-shadow: 0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1);
+    padding: 112px 32px 32px;
 }
 
 .search-params__notic-block {
