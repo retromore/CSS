@@ -25,10 +25,6 @@ body{
     font-size: 17px;
 }
 
-.inputformv1_has_autocomplete {
-    position: relative;
-    z-index: 3;
-}
 
 .inputformv1 {
     background: #e8e8e8;
@@ -45,8 +41,10 @@ body{
 }
 
 .search-params {
+    margin-top: 32px;
     background-color: #f9f9f9;
-    border-radius: 0;
+    border-radius: 5px 5px 0 0;
+    box-shadow: 0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1);
 }
 
 .search-params__time, .search-params__date {
