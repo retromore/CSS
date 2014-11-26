@@ -142,12 +142,11 @@ body{
 .page__button, .page__sub-button {
     border-radius: 5px;
     background-image: none;
-    font-weight: 700;
     box-shadow: none;
     color: #666666;
     cursor: pointer;
     display: inline-block;
-    font: 15px 'PT Sans', sans-serif;  
+    font: 700 15px 'PT Sans', sans-serif;  
     height: 38px;
 }
 
