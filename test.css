@@ -84,7 +84,7 @@ body{
 }
 
 .search-params__arrow {
-    background: url("https://cloud.githubusercontent.com/assets/9862634/5200735/b3eabdf4-7571-11e4-9de3-a6398b305de3.png") 80px 16px;
+    background: url("https://cloud.githubusercontent.com/assets/9862634/5200735/b3eabdf4-7571-11e4-9de3-a6398b305de3.png") 64px -16px;
     height: 32px;
     left: 100%;
     margin: 0 6px 0 11px;
