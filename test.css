@@ -47,14 +47,6 @@ body{
     box-shadow: 0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1);
 }
 
-.search-params__time, .search-params__date {
-    
-}
-
-.search-params__tickets {
-    display: none;
-}
-
 .search-params__notic-block {
     background: #528196;
     border-radius: 0 0 5px 5px;
