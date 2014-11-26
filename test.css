@@ -80,7 +80,7 @@ body{
     height: 32px;
     left: 100%;
     margin: 0 6px 0 11px;
-    top: 27px;
+    top: 31px;
     width: 32px;
 }
 
@@ -109,11 +109,10 @@ body{
     width: 29px;
 }
 
-
 .search-params__time-label {
-    display: block;
-    margin: 3px 0 6px;
+    margin: 1px 0 12px;
 }
+
 .search-params__label_type_addon {
     color: #666666;
     font-size: 13px;
@@ -154,4 +153,8 @@ body{
     background: none repeat scroll 0 0 #ffde5c;
     border: 1px solid #1c2b33;
     color: #1c2b33;
+}
+
+.search-params__row {
+    margin: 33px 0 0;
 }
