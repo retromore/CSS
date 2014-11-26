@@ -127,3 +127,9 @@ body{
     font-size: 13px;
     text-shadow: none;
 }
+
+.search-params .ui-time-picker-trigger {
+    background-position: -32px -65px, center top;
+    height: 30px;
+    width: 31px;
+}
