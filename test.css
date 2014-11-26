@@ -148,7 +148,7 @@ body{
     border-radius: 5px;
     background-image: none;
     box-shadow: none;
-    color: #666666;
+    color: #1c2b33;
     cursor: pointer;
     display: inline-block;
     font: 700 15px 'PT Sans', sans-serif;  
@@ -156,3 +156,8 @@ body{
     margin-top: 11px;
 }
 
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
+    background: none repeat scroll 0 0 #ffde5c;
+    border: 1px solid #1c2b33;
+    color: #1c2b33;
+}
