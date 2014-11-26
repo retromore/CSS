@@ -98,7 +98,7 @@ body{
 
 
 .search-params .ui-datepicker-trigger {
-    background-position: 16px 32px, center top;
+    background-position: -31px -17px, center top;
     height: 30px;
     width: 31px;
 }
