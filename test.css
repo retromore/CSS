@@ -133,3 +133,20 @@ body{
     height: 30px;
     width: 31px;
 }
+
+
+.page__button {
+    background-color: #ffe270;
+    color: #1c2b33;
+    text-shadow: none;
+}
+.page__button, .page__sub-button {
+    border-radius: 5px;
+    box-shadow: none;
+    color: #666666;
+    cursor: pointer;
+    display: inline-block;
+    font: 15px 'PT Sans', sans-serif;  
+    height: 38px;
+}
+
