@@ -103,7 +103,7 @@ body{
     width: 31px;
 }
 .ui-datepicker-trigger, .ui-time-picker-trigger {
-    background-color: #ffe270;
+    background-color: #cccccc;
     background-image: url("https://cloud.githubusercontent.com/assets/9862634/5200735/b3eabdf4-7571-11e4-9de3-a6398b305de3.png");
     background-position: -38px 4px, center center;
     background-repeat: no-repeat;
