@@ -117,3 +117,13 @@ body{
     width: 29px;
 }
 
+
+.search-params__time-label {
+    display: block;
+    margin: 3px 0 6px;
+}
+.search-params__label_type_addon {
+    color: #666666;
+    font-size: 13px;
+    text-shadow: none;
+}
