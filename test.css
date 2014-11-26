@@ -134,7 +134,6 @@ body{
     width: 31px;
 }
 
-
 .page__button {
     background-color: #ffe270;
     color: #1c2b33;
@@ -142,6 +141,8 @@ body{
 }
 .page__button, .page__sub-button {
     border-radius: 5px;
+    background-image: none;
+    font-weight: 700;
     box-shadow: none;
     color: #666666;
     cursor: pointer;
