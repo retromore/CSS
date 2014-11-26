@@ -158,3 +158,8 @@ body{
 .search-params__row {
     margin: 33px 0 0;
 }
+
+.tickets-num__label {
+    display: block;
+    margin: 2px 0 12px;
+}
