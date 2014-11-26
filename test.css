@@ -95,3 +95,25 @@ body{
 .search-params__col {
     width: 47%;
 }
+
+
+.search-params .ui-datepicker-trigger {
+    background-position: 16px 32px, center top;
+    height: 30px;
+    width: 31px;
+}
+.ui-datepicker-trigger, .ui-time-picker-trigger {
+    background-color: #ffe270;
+    background-image: url("https://cloud.githubusercontent.com/assets/9862634/5200735/b3eabdf4-7571-11e4-9de3-a6398b305de3.png");
+    background-position: -38px 4px, center center;
+    background-repeat: no-repeat;
+    border: 0 none;
+    border-radius: 0 5px 5px 0;
+    box-shadow: none;
+    height: 23px;
+    padding: 0;
+    right: 2px;
+    top: 1px;
+    width: 29px;
+}
+
