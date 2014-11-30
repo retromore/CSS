@@ -8,14 +8,14 @@ text-align:left; /*center hack*/
 }
 #logo {
 clear: both;
-width: 944px;
-height: 65px;
+width: 160px;
+height: 96px;
 background: blue;
 padding: 0 15px;
+float: left;
 }
 #mmenu {
-float: left;
-height: 80px;
+height: 96px;
 width: 940px;
 background: red;
 padding: 15px 17px 15px 17px;
