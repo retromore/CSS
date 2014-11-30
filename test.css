@@ -161,7 +161,7 @@ margin: 33px 0 0;
 }
 .tickets-num__label {
 display: block;
-margin: 2px 0 12px;
+margin: 1px 0 12px;
 }
 .eg-stepper input {
 border-radius: 0;
@@ -173,11 +173,14 @@ color: #5b5b5b;
 background: #ffe270;
 border: 1px solid #cccccc;
 border-radius: 5px;
+height: 30px;
 }
 .tickets-num__item .eg-stepper {
 margin: 0;
 }
 .eg-stepper-overlay {
+height: 30px;
+width: 98px;
 border: 1px solid #cccccc;
 border-radius: 5px;
 }
