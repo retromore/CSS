@@ -1,202 +1,180 @@
-
-
+ 
+ /*### overrides  ####*/
+ 
 .payment-methods, .payment-info {
-    display:none;
+display:none;
 }
-
 body{
-    background: #ececec;
-    font-family: 'PT Sans', sans-serif !important;
+background: #ececec;
+font-family: 'PT Sans', sans-serif !important;
 }
-
 .search-params__notic-block:after, .search-params__notic-block:before {
-    background: none;
+background: none;
 }
-
-
 .search-params .inputformv1 {
-    border: medium none;
-    box-sizing: border-box;
-    box-shadow: none !important;
-    color: #395967;
-    font-family: 'PT Sans', sans-serif;
-    height: 32px;
-    width: 100%;
-    font-size: 17px;
+border: medium none;
+box-sizing: border-box;
+box-shadow: none !important;
+color: #395967;
+font-family: 'PT Sans', sans-serif;
+height: 32px;
+width: 100%;
+font-size: 17px;
 }
-
-
 .inputformv1 {
-    background: #e8e8e8;
-    border: 1px solid #cccccc !important;
-    box-shadow: 0 !important;
-    outline: medium none;
-    padding: 6px 10px;
-    height: 32px;
+background: #e8e8e8;
+border: 1px solid #cccccc !important;
+box-shadow: 0 !important;
+outline: medium none;
+padding: 6px 10px;
+height: 32px;
 }
-
-
 .rzhd-main-page, .confirm-station, .buy-rezult, .eg-cabinet-login .search-params {
-    background-image: none;
+background-image: none;
 }
-
 .search-params {
-    margin-top: 32px;
-    background-color: #f9f9f9;
-    border-radius: 5px 5px 0 0;
-    box-shadow: 0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1);
-    padding: 80px 32px 32px;
-    background-image: url("https://cloud.githubusercontent.com/assets/9862634/5239240/d0fad6b6-78e3-11e4-9ce1-06aecb79636f.png");
+margin-top: 32px;
+background-color: #f9f9f9;
+border-radius: 5px 5px 0 0;
+box-shadow: 0 0 1px rgba(0,0,0,.2), 0 2px 4px rgba(0,0,0,.1);
+padding: 80px 32px 32px;
+background-image: url("https://cloud.githubusercontent.com/assets/9862634/5239240/d0fad6b6-78e3-11e4-9ce1-06aecb79636f.png");
 }
-
 .search-params__notic-block {
-    background: #528196;
-    border-radius: 0 0 5px 5px;
-    box-shadow: none;
-    border: none;
-    margin: 0 0 30px;
-    padding: 15px 20px 25px;
-    position: relative;
-    box-shadow: 0 0 1px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.1);
+background: #528196;
+border-radius: 0 0 5px 5px;
+box-shadow: none;
+border: none;
+margin: 0 0 30px;
+padding: 15px 20px 25px;
+position: relative;
+box-shadow: 0 0 1px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.1);
 }
-
 .search-params__hint {
-    color: #FFFFFF;
-    font-family: 'PT Sans', sans-serif !important;
-    font-style: normal;
-    font-size: 12px;
+color: #FFFFFF;
+font-family: 'PT Sans', sans-serif !important;
+font-style: normal;
+font-size: 12px;
 }
-
 .search-params__label {
-    font: 15px 'PT Sans', sans-serif;
-    margin: 0 0 10px;
-    text-shadow: none;
-    color: #666666;
-    font-weight: 700;
+font: 15px 'PT Sans', sans-serif;
+margin: 0 0 10px;
+text-shadow: none;
+color: #666666;
+font-weight: 700;
 }
-
 .search-params__arrow {
-    background: url("https://cloud.githubusercontent.com/assets/9862634/5200735/b3eabdf4-7571-11e4-9de3-a6398b305de3.png") 64px -16px;
-    height: 32px;
-    left: 100%;
-    margin: 0 6px 0 11px;
-    top: 31px;
-    width: 32px;
+background: url("https://cloud.githubusercontent.com/assets/9862634/5200735/b3eabdf4-7571-11e4-9de3-a6398b305de3.png") 64px -16px;
+height: 32px;
+left: 100%;
+margin: 0 6px 0 11px;
+top: 31px;
+width: 32px;
 }
-
 .search-params__col {
-    width: 47%;
+width: 47%;
 }
-
-
 .search-params .ui-datepicker-trigger {
-    background-position: -32px -17px, center top;
-    height: 30px;
-    width: 31px;
+background-position: -32px -17px, center top;
+height: 30px;
+width: 31px;
 }
 .ui-datepicker-trigger, .ui-time-picker-trigger {
-    background-color: #cccccc;
-    background-image: url("https://cloud.githubusercontent.com/assets/9862634/5200735/b3eabdf4-7571-11e4-9de3-a6398b305de3.png");
-    background-position: -38px 4px, center center;
-    background-repeat: no-repeat;
-    border: 0 none;
-    border-radius: 0 5px 5px 0;
-    box-shadow: none;
-    height: 23px;
-    padding: 0;
-    right: 1px;
-    top: 1px;
-    width: 29px;
+background-color: #cccccc;
+background-image: url("https://cloud.githubusercontent.com/assets/9862634/5200735/b3eabdf4-7571-11e4-9de3-a6398b305de3.png");
+background-position: -38px 4px, center center;
+background-repeat: no-repeat;
+border: 0 none;
+border-radius: 0 5px 5px 0;
+box-shadow: none;
+height: 23px;
+padding: 0;
+right: 1px;
+top: 1px;
+width: 29px;
 }
-
 .search-params__time-label {
-    margin: 1px 0 12px;
+margin: 1px 0 12px;
 }
-
 .search-params__label_type_addon {
-    color: #666666;
-    font-size: 13px;
-    text-shadow: none;
+color: #666666;
+font-size: 13px;
+text-shadow: none;
 }
-
 .search-params .ui-time-picker-trigger {
-    background-position: -32px -65px, center top;
-    height: 30px;
-    width: 31px;
+background-position: -32px -65px, center top;
+height: 30px;
+width: 31px;
 }
-
 .page__button {
-    background-color: #ffe270;
-    color: #1c2b33;
-    text-shadow: none;
+background-color: #ffe270;
+color: #1c2b33;
+text-shadow: none;
 }
-
-
 .page__button:hover {
-    background-color: #ffde5c;
+background-color: #ffde5c;
 }
-
 .page__button, .page__sub-button {
-    width: 92px;
-    border-radius: 5px;
-    background-image: none;
-    box-shadow: none;
-    color: #1c2b33;
-    cursor: pointer;
-    display: inline-block;
-    font: 700 15px 'PT Sans', sans-serif;  
-    height: 38px;
-    margin-top: 11px;
+width: 92px;
+border-radius: 5px;
+background-image: none;
+box-shadow: none;
+color: #1c2b33;
+cursor: pointer;
+display: inline-block;
+font: 700 15px 'PT Sans', sans-serif;
+height: 38px;
+margin-top: 11px;
 }
-
 .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
-    background: none repeat scroll 0 0 #ffde5c;
-    border: 1px solid #1c2b33;
-    color: #1c2b33;
+background: none repeat scroll 0 0 #ffde5c;
+border: 1px solid #1c2b33;
+color: #1c2b33;
 }
-
 .search-params__row {
-    margin: 33px 0 0;
+margin: 33px 0 0;
 }
-
 .tickets-num__label {
-    display: block;
-    margin: 2px 0 12px;
+display: block;
+margin: 2px 0 12px;
 }
-
 .eg-stepper input {
- border-radius: 0;   
+border-radius: 0;
 }
-
 .search-params .eg-stepper-arrow {
-    color: #5b5b5b;
-
+color: #5b5b5b;
 .eg-stepper-arrow {
-   background: #ffe270;
+background: #ffe270;
 }
-
 .tickets-num__item .eg-stepper {
-    margin: 0;
+margin: 0;
 }
-
 .eg-stepper-overlay {
-    border: 1px solid #cccccc;
-    border-radius: 5px;
-    height: 30px;
-    z-index: 40;
+border: 1px solid #cccccc;
+border-radius: 5px;
+height: 30px;
+z-index: 40;
 }
-
 .tickets-num__item {
-    margin: 0 16px 0 0;
+margin: 0 16px 0 0;
 }
-
 .ui-autocomplete .ui-menu-item .ui-state-hover {
-    background-color: #ffe270;
+background-color: #ffe270;
 }
 .eg-dropdown__item:hover, .ui-autocomplete .ui-menu-item .ui-state-hover {
-    background-color: #70c9ef;
-    box-shadow: none;
+background-color: #70c9ef;
+box-shadow: none;
 }
 .glossy-gradient_opacity_half, .eg-hint-icon, .eg-dropdown__item:hover, .ui-autocomplete .ui-menu-item .ui-state-hover, .table-header, .confirm-params .table-header__item {
-    background-image: none;
+background-image: none;
 }
+
+ /*### menu  ###*/
+ #wrap {
+width:974px; /*IE6 hack*/
+margin:0 auto; /*center hack*/
+text-align:left; /*center hack*/
+}
+ #mmenu {
+ background: red;
+ }
