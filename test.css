@@ -10,7 +10,8 @@ text-align:left; /*center hack*/
 clear: both;
 width: 160px;
 height: 96px;
-background: blue;
+background: #528196;
+border-radius: 5px 0 0 5px;
 padding: 0 15px;
 float: left;
 }
@@ -18,7 +19,8 @@ float: left;
 height: 96px;
 width: 940px;
 background: red;
-padding: 15px 17px 15px 17px;
+border-radius: 5px;
+box-shadow: 0 0 1px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.1);
 } 
 
 
