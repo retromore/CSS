@@ -189,3 +189,14 @@ body{
 .tickets-num__item {
     margin: 0 16px 0 0;
 }
+
+.ui-autocomplete .ui-menu-item .ui-state-hover {
+    background-color: #ffe270;
+}
+.eg-dropdown__item:hover, .ui-autocomplete .ui-menu-item .ui-state-hover {
+    background-color: #70c9ef;
+    box-shadow: none;
+}
+.glossy-gradient_opacity_half, .eg-hint-icon, .eg-dropdown__item:hover, .ui-autocomplete .ui-menu-item .ui-state-hover, .table-header, .confirm-params .table-header__item {
+    background-image: none;
+}
