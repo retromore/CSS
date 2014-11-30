@@ -167,3 +167,17 @@ body{
 .eg-stepper input {
  border-radius: 0;   
 }
+
+.search-params .eg-stepper-arrow {
+    color: #fff;
+}
+.eg-stepper-arrow.down {
+    left: 0;
+}
+.eg-disabled-arrow {
+    color: #000;
+    opacity: 0.3;
+}
+.eg-stepper-arrow {
+   background: #ffe270;
+}
