@@ -2,9 +2,9 @@
 
 /*### menu ###*/
 #wrap {
-width:974px; /*IE6 hack*/
 margin:0 auto; /*center hack*/
-text-align:left; /*center hack*/
+max-width: 960px;
+min-width: 680px;
 }
 #logo {
 clear: both;
@@ -18,7 +18,7 @@ float: left;
 #mmenu {
 height: 96px;
 width: 940px;
-background: red;
+background: #ffffff;
 border-radius: 5px;
 box-shadow: 0 0 1px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.1);
 } 
