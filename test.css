@@ -175,6 +175,19 @@ width:974px; /*IE6 hack*/
 margin:0 auto; /*center hack*/
 text-align:left; /*center hack*/
 }
- #mmenu {
+
+ #logo {
+	clear: both;
+	width: 944px;
+	height: 65px;
+	background: blue;
+	padding: 0 15px;
+}
+
+#mmenu {
+ float: left;
+ height: 80px;
+ width: 940px;
  background: red;
- }
+ padding: 15px 17px 15px 17px;
+}
