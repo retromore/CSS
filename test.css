@@ -169,15 +169,12 @@ body{
 }
 
 .search-params .eg-stepper-arrow {
-    color: #fff;
-}
-.eg-stepper-arrow.down {
-    left: 0;
-}
-.eg-disabled-arrow {
-    color: #000;
-    opacity: 0.3;
-}
+    color: #5b5b5b;
+
 .eg-stepper-arrow {
    background: #ffe270;
+}
+
+.tickets-num__item .eg-stepper {
+    margin: 0;
 }
