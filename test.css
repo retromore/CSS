@@ -248,3 +248,8 @@ border: 2px solid #ffde5c;
 .car-type_state_active, .car-type_state_active:hover {
 border: 2px solid #368cb2;
 }
+
+.car-list__row:hover {
+border-bottom: 2px solid #ffde5c;
+border-top: 2px solid #ffde5c;
+}
