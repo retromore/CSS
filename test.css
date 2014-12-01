@@ -218,3 +218,7 @@ border-left: 1px solid #93b2c0;
 background-color: #ffe270;
 background-image: none;
 }
+
+.table-header {
+background-color: #368cb2;
+}
