@@ -205,3 +205,11 @@ line-height: 30px;
 line-height: 30px;
 }
 
+.order-params {
+background: #528196;
+color: #fff;
+}
+
+.order-params__item {
+border-left: 1px solid #93b2c0;
+}
