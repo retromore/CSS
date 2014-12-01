@@ -130,27 +130,26 @@ background-position: -32px -65px, center top;
 height: 30px;
 width: 31px;
 }
-.page__button {
-background-color: #ffe270;
-color: #1c2b33;
-text-shadow: none;
-}
 .page__button:hover {
 background-color: #ffde5c;
 }
 .page__button {
+background-color: #ffe270;
+background-image: none;
+color: #1c2b33;
+text-shadow: none;
 width: 92px;
 border-radius: 5px;
-background-image: none;
 box-shadow: none;
-color: #1c2b33;
 font: 700 15px 'PT Sans', sans-serif;
 height: 38px;
 margin-top: 11px;
 }
 
 .page__sub-button {
- 
+background-image: none;
+box-shadow: 0 0 1px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.1);
+background-color: #ffe270;
 }
 
 
