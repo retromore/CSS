@@ -240,3 +240,11 @@ border: 2px solid #ffde5c;
 background: linear-gradient(white, #e5e5e5) repeat scroll 0 0 rgba(0, 0, 0, 0);
 border: 2px solid #ffde5c;
 }
+
+.eg-popup {
+border: 2px solid #ffde5c;
+}
+
+.car-type_state_active, .car-type_state_active:hover {
+border: 2px solid #368cb2;
+}
