@@ -213,3 +213,8 @@ color: #fff;
 .order-params__item {
 border-left: 1px solid #93b2c0;
 }
+
+.breadcrumbs__item:before {
+background-color: #ffe270;
+background-image: none;
+}
