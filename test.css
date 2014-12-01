@@ -253,3 +253,7 @@ border: 2px solid #368cb2;
 border-bottom: 2px solid #ffde5c;
 border-top: 2px solid #ffde5c;
 }
+
+.car-list__row:last-child:hover {
+border-bottom: 2px solid #ffde5c;
+}
