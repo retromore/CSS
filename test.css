@@ -155,10 +155,12 @@ text-shadow: none;
 }
 
 .rgd-car__select-btn {
-width: 200px; 
+width: 190px; 
 height: 30px;
+color: #737373;
 font: 700 15px/30px 'PT Sans', sans-serif;
 background-color: #ffe270;
+box-shadow: 0 0 1px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.1);
 } 
 
 .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
