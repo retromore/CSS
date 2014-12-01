@@ -235,3 +235,7 @@ border: 2px solid #ffde5c;
 background: linear-gradient(white, #e5e5e5) repeat scroll 0 0 rgba(0, 0, 0, 0);
 border: 2px solid #ffde5c;
 }
+
+.page__top-controls eg-clearfix page__sub-button page__button_icon_left-arrow{
+width: 200px;
+}
