@@ -257,3 +257,7 @@ border-top: 2px solid #ffde5c;
 .car-list__row:last-child:hover {
 border-bottom: 2px solid #ffde5c;
 }
+
+.car-list__car-num {
+color: #1c2b33;
+}
