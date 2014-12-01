@@ -138,7 +138,7 @@ text-shadow: none;
 .page__button:hover {
 background-color: #ffde5c;
 }
-.page__button, .page__sub-button {
+.eg-clearfix .page__button, .page__sub-button {
 width: 92px;
 border-radius: 5px;
 background-image: none;
