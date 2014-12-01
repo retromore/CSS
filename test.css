@@ -226,4 +226,7 @@ background-color: #368cb2;
 .train-list {
  background: #ffffff;
 }
+
+.train-item:hover {
+border: 2px solid #ffde5c;
 }
