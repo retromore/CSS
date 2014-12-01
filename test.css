@@ -138,18 +138,22 @@ text-shadow: none;
 .page__button:hover {
 background-color: #ffde5c;
 }
-.page__button, .page__sub-button {
+.page__button {
 width: 92px;
 border-radius: 5px;
 background-image: none;
 box-shadow: none;
 color: #1c2b33;
-cursor: pointer;
-display: inline-block;
 font: 700 15px 'PT Sans', sans-serif;
 height: 38px;
 margin-top: 11px;
 }
+
+.page__sub-button {
+ 
+}
+
+
 .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
 background: none repeat scroll 0 0 #ffde5c;
 border: 1px solid #1c2b33;
