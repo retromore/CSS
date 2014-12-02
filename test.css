@@ -168,6 +168,15 @@ box-shadow: 0 0 1px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.1);
 margin: 0;
 } 
 
+button#next-button {
+font: 400 15px/36px "PT Sans",sans-serif;
+}
+
+span.page__sub-button append-pass-block__btn js-add-baby {
+font: 400 15px/48px "PT Sans",sans-serif;
+}
+}
+
 .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active {
 background: none repeat scroll 0 0 #ffde5c;
 border: 1px solid #1c2b33;
