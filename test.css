@@ -22,6 +22,14 @@ box-shadow: 0 0 1px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.1);
 margin: 16px 0;
 } 
 
+#mmenu li {
+list-style: none;
+display: inline-block;
+width: 144px;
+height: 96px;
+background: url("https://cloud.githubusercontent.com/assets/9862634/5287855/8e236edc-7b38-11e4-87ae-5b97eea46b86.png");
+}
+
 
 
  /*### overrides  ####*/
