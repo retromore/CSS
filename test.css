@@ -35,6 +35,10 @@ margin: 16px 0;
     width: 144px;
 }
 
+#mmenu li:hover {
+    background-position: 48px;
+}
+
 
 
  /*### overrides  ####*/
