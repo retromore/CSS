@@ -23,15 +23,15 @@ margin: 16px 0;
 } 
 
 #mmenu li {
-    display: inline-block;
-    font-size: 13.5px;
-    font-weight: 700;
-    height: 32px;
-    list-style: outside none none;
-    padding-top: 64px;
-    text-align: center;
-    width: 144px;
-    color: #368cb2;
+display: inline-block;
+font-size: 13.5px;
+font-weight: 700;
+height: 32px;
+list-style: outside none none;
+padding-top: 64px;
+text-align: center;
+width: 144px;
+color: #368cb2;
 }
 
 .zd {
@@ -46,6 +46,18 @@ background-position: -160px -96px;
 .av {
 background: url("https://cloud.githubusercontent.com/assets/9862634/5287855/8e236edc-7b38-11e4-87ae-5b97eea46b86.png") no-repeat;
 background-position: 0 0;  
+}
+
+.av:hover {
+background-position: 0 -96px;  
+}
+
+.info_bg {
+background: #ffffff;
+border-radius: 5px;
+box-shadow: 0 0 1px rgba(0, 0, 0, 0.2), 0 2px 4px rgba(0, 0, 0, 0.1);
+margin: 16px 0;
+padding: 32px;
 }
 
 
