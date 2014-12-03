@@ -31,6 +31,7 @@ padding-top: 64px;
 text-align: center;
 width: 144px;
 text-decoration: none;
+float: left;
 }
 
 #mmenu li {
