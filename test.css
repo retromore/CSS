@@ -36,6 +36,7 @@ width: 144px;
 .zd {
 background: url("https://cloud.githubusercontent.com/assets/9862634/5290054/305819ce-7b4c-11e4-8f59-33a4e0301b86.png") no-repeat;
 background-position: -160px -96px;
+color: #368cb2;
 }
 
 .zd:hover {
@@ -49,7 +50,8 @@ color: #999999;
 }
 
 .av:hover {
-background-position: 0 -96px;  
+background-position: 0 -96px;
+color: #368cb2;
 }
 
 .info_bg {
