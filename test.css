@@ -31,16 +31,16 @@ margin: 16px 0;
     padding-top: 64px;
     text-align: center;
     width: 144px;
+    color: #368cb2;
 }
 
 #mmenu li:hover {
-    color: #368cb2;
     background-position: 0 96px;
 }
 
 .zd {
 background: url("https://cloud.githubusercontent.com/assets/9862634/5287855/8e236edc-7b38-11e4-87ae-5b97eea46b86.png") no-repeat;
-background-position: 144px 0;
+background-position: -160px 0;
 }
 
 .av {
