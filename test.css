@@ -14,6 +14,13 @@ border-radius: 5px 0 0 5px;
 float: left;
 background: url("https://cloud.githubusercontent.com/assets/9862634/5244974/ffafdf40-795d-11e4-974b-ab521158cdc5.png") center no-repeat #528196;
 }
+
+#logo a {
+display: block;
+width: 160px;
+height: 96px;
+}
+
 #mmenu {
 height: 96px;
 background: #ffffff;
