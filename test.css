@@ -27,11 +27,14 @@ display: inline-block;
 font-size: 13.5px;
 font-weight: 700;
 height: 32px;
-list-style: outside none none;
 padding-top: 64px;
 text-align: center;
 width: 144px;
 text-decoration: none;
+}
+
+#mmenu li {
+list-style: outside none none;
 }
 
 .zd a{
