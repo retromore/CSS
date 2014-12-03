@@ -285,3 +285,8 @@ border-bottom: 2px solid #ffde5c;
 .car-list__car-num {
 color: #1c2b33;
 }
+
+input#pass-docs__item {
+ height: 28px;
+}
+}
