@@ -60,6 +60,10 @@ margin: 16px 0;
 padding: 32px;
 }
 
+.info_bg h2 {
+ font-size: 24px;
+ color: #333;
+}
 
  /*### overrides  ####*/
  
