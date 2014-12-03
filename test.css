@@ -43,6 +43,10 @@ background: url("https://cloud.githubusercontent.com/assets/9862634/5287855/8e23
 background-position: -160px 0;
 }
 
+.zd:hover {
+background-position: -160px -96px;    
+}
+
 .av {
 background: url("https://cloud.githubusercontent.com/assets/9862634/5287855/8e236edc-7b38-11e4-87ae-5b97eea46b86.png") no-repeat;
 background-position: 0 0;  
