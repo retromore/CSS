@@ -286,7 +286,7 @@ border-bottom: 2px solid #ffde5c;
 color: #1c2b33;
 }
 
-input#pass-docs__item  .inputformv1 { 
+input .pass-docs__item { 
 height: 20px;
 }
 
