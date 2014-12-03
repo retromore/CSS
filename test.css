@@ -19,6 +19,7 @@ background: url("https://cloud.githubusercontent.com/assets/9862634/5244974/ffaf
 display: block;
 width: 160px;
 height: 96px;
+text-indent: -9999px;
 }
 
 #mmenu {
