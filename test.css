@@ -361,3 +361,11 @@ box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5) inset, 0 0 5px #ffde5c;
 background-image: none;
 box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5), 0 1px 0 rgba(255, 255, 255, 0.8) inset;
 }
+
+.ufs-footer {
+display: none;
+}
+
+.ufs-footer__col {
+padding: 32px 0;
+}
