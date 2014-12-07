@@ -366,9 +366,11 @@ box-shadow: 0 1px 2px rgba(0, 0, 0, 0.5), 0 1px 0 rgba(255, 255, 255, 0.8) inset
 display: none;
 }
 
-.footer_col {
-float: left;
-width: 49%;
+.ft_cleaner {
+ float: right;
+}
+
+.ufs-footer__col {
 padding: 32px 0;
 }
 
