@@ -118,6 +118,9 @@ height: 32px;
 .rzhd-main-page, .confirm-station, .buy-rezult, .eg-cabinet-login .search-params {
 background-image: none;
 }
+.search-params__row {
+ height: 63px;
+}
 .search-params {
 background-color: #f9f9f9;
 border-radius: 5px 5px 0 0;
