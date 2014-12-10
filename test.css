@@ -69,12 +69,12 @@ color: #368cb2;
 
 .ht a {
 background: url("https://cloud.githubusercontent.com/assets/9862634/5385940/a0102be8-80cf-11e4-814f-babccd6c19bc.png") no-repeat;
-background-position: 0 0;
+background-position: -320px 0;
 color: #999999;
 }
 
 .ht a:hover {
-background-position: 0 -96px;
+background-position: -320px -96px;
 color: #368cb2;
 }
 
